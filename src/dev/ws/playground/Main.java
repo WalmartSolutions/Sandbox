@@ -16,8 +16,4 @@ public class Main {
 		 */
 		RoutineLoader routineLoader = new RoutineLoader(args);
 	}
-	
-	public static String getRoutineLogPrefix() {
-		return "[WS] Running routine -> ";
-	}
 }
